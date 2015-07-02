@@ -1,0 +1,4 @@
+blacklist.json
+pass
+debug.log
+*.pyc
